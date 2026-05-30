@@ -1,4 +1,4 @@
-# credit_default_prediction
+# Credit Default Prediction
 A Machine Learning project for predicting customer credit default risk using advanced preprocessing, feature engineering, and ensemble-based modeling techniques.
 
 # Overview
