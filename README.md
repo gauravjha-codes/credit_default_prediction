@@ -39,13 +39,7 @@ Stratified K-Fold Cross Validation (n_splits = 5)
 Early stopping for better generalization
 Feature importance analysis
 Optimized training parameters for efficient learning
-Project Structure
-├── credit_default_model.ipynb
-├── train.csv
-├── test.csv
-├── sample_submission.csv
-├── submission.csv
-└── README.md
+
 
 -Implemented a complete ML pipeline for credit default prediction
 -Applied feature engineering and preprocessing to improve model performance
